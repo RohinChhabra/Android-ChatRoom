@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "267976109331",
+    "firebase_url": "https://chatapptutorial-f72e6.firebaseio.com",
+    "project_id": "chatapptutorial-f72e6",
+    "storage_bucket": "chatapptutorial-f72e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267976109331:android:e2865a230e349b61",
+        "android_client_info": {
+          "package_name": "com.koddev.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267976109331-ssb5v41alvq2ssv79rb49buauotni4v0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.koddev.chatapp",
+            "certificate_hash": "12e886af589697489c7ac5363e6a7dcc1ba6fb3a"
+          }
+        },
+        {
+          "client_id": "267976109331-car36pfo08in44k9f8iil54o169841g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU2aCZlCq2OCKH9h0bQ4Wqf7mKMX5Y1xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267976109331-car36pfo08in44k9f8iil54o169841g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
